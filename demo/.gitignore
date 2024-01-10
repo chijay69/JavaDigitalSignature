@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### properties files ###
+!/src/main/resources/applicatio-dev.properties
+!/src/main/resources/applicatio-local.properties
